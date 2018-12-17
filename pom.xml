@@ -9,6 +9,7 @@
     <name>spring-boot-poc</name>
 	
     <modules>
-        <module>spring-hibernate-association</module>        
+        <module>spring-hibernate-association</module>      
+		<module>spring-sproc</module>        		
     </modules>
 </project>
